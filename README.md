@@ -44,18 +44,5 @@ O **Web Piano** é um projeto interativo desenvolvido em HTML, CSS e JavaScript 
 │       └── ...      # Outras notas
 ```
 
-## Melhorias Futuras
 
-- Suporte para mais oitavas e notas.
-- Opção de gravação e reprodução das melodias.
-- Interface responsiva para dispositivos móveis.
-- Personalização das cores das teclas.
-
-## Contribuições
-
-Sinta-se à vontade para contribuir com melhorias no projeto. Envie um pull request ou abra uma issue com sua sugestão!
-
----
-
-Feito com ❤️ por desenvolvedores apaixonados por música e código!
 
